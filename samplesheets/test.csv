@@ -1,5 +1,5 @@
 sample_id,description,ncbi_accession,enabled,report_group_ids,ploidy,ref_ncbi_accession,ref_primary_usage,ref_contextual_usage,ref_description,taxon
-LF1,Should be L. fermentum,SRR18850314,TRUE,,all,1,,,,,Limosilactobacillus fermentum
+LF1,Should be L. fermentum,SRR18850314,TRUE,all,1,,,,,Limosilactobacillus fermentum
 LF2,Should be L. fermentum,SRR18850310,TRUE,all;limosilactobacillus,1,,,,,Limosilactobacillus fermentum
 LF3,Should be L. fermentum,ERR13427439,TRUE,all;limosilactobacillus,1,,,,,Limosilactobacillus fermentum
 LF4,Should be L. fermentum,SRR22981583,TRUE,all;limosilactobacillus,1,,,,,Limosilactobacillus fermentum
