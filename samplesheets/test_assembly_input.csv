@@ -2,4 +2,4 @@ sample_id,name,path,ncbi_accession,ncbi_query,query_db,color_by,species,report_g
 b_fragilis_1,B. fragilis,https://github.com/nf-core/test-datasets/raw/refs/heads/modules/data/genomics/prokaryotes/bacteroides_fragilis/genome/genome.fna.gz,,,,species,Bacteroides fragilis,all,assembly,TRUE,1
 b_fragilis_2,B. fragilis,,GCF_002853715.1,,,species,Bacteroides fragilis,all,assembly,TRUE,1
 b_fragilis_3,B. fragilis,,,Bacteroides fragilis,assembly,species,Bacteroides fragilis,all,assembly,TRUE,1
-e_coli_1,E. coli,https://github.com/worthyc51/test-datasets/raw/refs/heads/pathogensurveillance/genomic_data/GCA_000005845.2_ASM584v2_genomic.fna,species,Escherichia coli,all,assembly,TRUE,1
+e_coli_1,E. coli,https://github.com/worthyc51/test-datasets/raw/refs/heads/pathogensurveillance/genomic_data/GCA_000005845.2_ASM584v2_genomic.fna,,,,species,Escherichia coli,all,assembly,TRUE,1
